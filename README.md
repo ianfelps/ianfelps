@@ -1,5 +1,14 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=10&color=539CF1&center=true&vCenter=true&width=870&height=100&lines=Hi%2C+my+name+is+Ian!;Be+Welcome!+%3A)" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=30&pause=10&color=4D90DB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=Hello%2C+my+name+is+Ian!;Be%2C+welcome!)](https://git.io/typing-svg)<br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianfelps&layout=compact&theme=github_dark" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianfelps&layout=compact&theme=github_dark" align="right"/>
+
+<div>
+  <h3>Technologies:</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" />‎ ‎ ‎ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="50" />‎ ‎ ‎ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50" />‎ ‎ ‎ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" />‎ ‎ ‎ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" />‎ ‎ ‎ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" />‎ ‎ ‎ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="50" />‎ ‎ ‎ 
+</div><br>
