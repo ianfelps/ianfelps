@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=30&pause=10&color=4D90DB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=Hello%2C+my+name+is+Ian!;Be%2C+welcome!)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=35&pause=10&color=4D90DB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=Hello%2C+my+name+is+Ian!;Be%2C+welcome!)](https://git.io/typing-svg)<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianfelps&layout=compact&theme=github_dark" align="right"/>
 
