@@ -34,5 +34,5 @@
 }
 ```
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ianfelps&theme=github-dark-blue&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&card_height=50)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ianfelps&theme=github-dark-blue&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=50)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianfelps&theme=github_dark&hide_border=true&locale=pt-br&hide_progress=true)
