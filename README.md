@@ -16,7 +16,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&vCenter=true&multiline=true&repeat=false&width=700&height=75&lines=%24+welcome;ol%C3%A1%2C+sou+o+Ian+Felipe%2C+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-## Sobre Mim
+### Sobre Mim
 ```json
 {
   "graduation": "Ciências da Computação - UCB",
@@ -25,7 +25,7 @@
 }
 ```
 
-## Contato
+### Contato
 ```json
 {
   "email": "iannfelps@gmail.com",
@@ -33,6 +33,7 @@
   "portfolio": "portfolioianfelps.netlify.app"
 }
 ```
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ianfelps&theme=github-dark-blue&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=50)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianfelps&theme=github_dark&hide_border=true&locale=pt-br&hide_progress=true)
+<br>
+<div align="center">
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ianfelps&theme=github-dark-blue&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&card_height=200" alt="GitHub Streak" /></a>
+</div>
