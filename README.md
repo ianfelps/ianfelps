@@ -20,8 +20,8 @@
 ```json
 {
   "graduation": "Ciências da Computação - UCB",
-  "interests": ["Desenvolvimento Back-end", "Banco de dados", "Arquitetura de software"],
-  "primary-skills": ["Java", "Python", "PHP", "SQL", "Django", "Spring", "IA"]
+  "interests": ["Desenvolvimento Back-end", "Banco de dados", "Arquitetura de software", "Cibersegurança"],
+  "primary-skills": ["Python", "Java", "PHP", "SQL", "Django", "Spring", "IA"]
 }
 ```
 
@@ -33,7 +33,8 @@
   "portfolio": "portfolioianfelps.netlify.app"
 }
 ```
-<br>
-<div align="center">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ianfelps&theme=github-dark-blue&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&card_height=200" alt="GitHub Streak" /></a>
-</div>
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ianfelps&theme=github-dark-blue&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600)](https://git.io/streak-stats)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ianfelps?theme=dark&width=500&font=Cabin&border=0)
