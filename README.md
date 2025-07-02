@@ -20,8 +20,8 @@
 ```json
 {
   "graduation": "Ciências da Computação - UCB",
-  "interests": ["Desenvolvimento Back-end", "Banco de dados", "Arquitetura de software", "Cibersegurança"],
-  "primary-skills": ["Python", "Java", "PHP", "SQL", "Django", "Spring", "IA"]
+  "interests": ["Desenvolvimento Fullstack", "Banco de dados", "API", "Arquitetura de software", "Cibersegurança"],
+  "primary-skills": ["Python", "JavaScript", "Java", "PHP", "SQL", "Django", "Flask", "Node.js", "Spring"]
 }
 ```
 
