@@ -21,7 +21,7 @@
 {
   "graduation": "Ciências da Computação - UCB",
   "interests": ["Desenvolvimento Fullstack", "Banco de dados", "API", "Arquitetura de software", "Cibersegurança"],
-  "primary-skills": ["Python", "JavaScript", "Java", "PHP", "SQL", "Django", "Flask", "Node.js", "Spring"]
+  "primary-skills": ["Python", "C#", "TypeScript", "Java", "SQL", "Flask", ".NET", "React", "Node.js", "Spring"]
 }
 ```
 
@@ -29,12 +29,12 @@
 ```json
 {
   "email": "iannfelps@gmail.com",
-  "linkedin": "linkedin.com/in/ian-felipe-alves",
-  "portfolio": "portfolioianfelps.netlify.app"
+  "linkedin": "linkedin.com/in/ian-felipe-alves"
 }
 ```
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ianfelps&theme=github-dark-blue&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600)](https://git.io/streak-stats)
 
+<!--
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ianfelps?theme=dark&width=500&font=Cabin&border=0)
