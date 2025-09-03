@@ -1,8 +1,8 @@
 ## Ian Felipe
 
-```FullStack Developer```
+```FullStack Developer & Computer Science Student```
 
-Aspiring Full-Stack Developer at with practical experience in ASP.NET (C#), React/Next.js (TypeScript), and SQL Server, complemented by a strong academic background in Computer Science (currently in the 6th semester at UCB).
+Aspiring Full-Stack Developer with practical experience in ASP.NET (C#), React/Next.js (TypeScript), and SQL Databases, complemented by a strong academic background in Computer Science (currently in the 6th semester at UCB).
 
 ---
 
